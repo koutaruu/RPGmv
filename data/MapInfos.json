@@ -16,8 +16,8 @@ null,
 {"id":14,"expanded":false,"name":"Intro","order":20,"parentId":0,"scrollX":723.6,"scrollY":469.79999999999995},
 {"id":15,"expanded":false,"name":"Extras","order":13,"parentId":4,"scrollX":4684.8,"scrollY":3758.3999999999996},
 {"id":16,"expanded":false,"name":"PierHouseInterior","order":8,"parentId":8,"scrollX":4684.8,"scrollY":3758.3999999999996},
-{"id":17,"expanded":true,"name":"The5thTemple","order":16,"parentId":4,"scrollX":1638,"scrollY":922},
-{"id":18,"expanded":false,"name":"Outside5thTemple","order":19,"parentId":4,"scrollX":1638,"scrollY":922},
-{"id":19,"expanded":true,"name":"Temple Floor 1","order":17,"parentId":17,"scrollX":1638,"scrollY":922},
-{"id":20,"expanded":false,"name":"Temple Floor 2","order":18,"parentId":19,"scrollX":1638,"scrollY":922}
+{"id":17,"expanded":true,"name":"The5thTemple","order":16,"parentId":4,"scrollX":868,"scrollY":678},
+{"id":18,"expanded":false,"name":"Outside5thTemple","order":19,"parentId":4,"scrollX":878.6666666666666,"scrollY":522},
+{"id":19,"expanded":true,"name":"Temple Floor 1","order":17,"parentId":17,"scrollX":868,"scrollY":614},
+{"id":20,"expanded":false,"name":"Temple Floor 2","order":18,"parentId":19,"scrollX":868,"scrollY":526}
 ]
